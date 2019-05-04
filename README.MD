@@ -1,6 +1,9 @@
 ### How to install `Magic`
-1) ![download](https://i.paste.pics/fde727c96d0f1278f8ffbde37b0d863a.png "Скачать")<br>
-2) ![zip](https://i.paste.pics/20ad45f5f625fa1e128280251bea14b6.png "ZIP")
+1) ![download](https://i.paste.pics/fde727c96d0f1278f8ffbde37b0d863a.png "Скачать")<br><hr>
+2) ![zip](https://i.paste.pics/20ad45f5f625fa1e128280251bea14b6.png "ZIP")<br><Hr>
+3) UnZIP and install Minecraft version `1.12.2` and forge version `14.23.5.2836`<br><hr>
+4) Так же можно установить бетовую версию, для этого смени на нужную ветку и скачай нужную тебе версию сборки.
+![change](https://i.paste.pics/8b6e70e871f33336f5fc2a0c95d0ffa5.png "tree") 
 #### Download `mods` and `config`
 
 
