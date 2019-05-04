@@ -1,5 +1,6 @@
 ### How to install `Magic`
-1. ![mountains](https://i.paste.pics/fde727c96d0f1278f8ffbde37b0d863a.png "Пейзаж с горами")
+1) ![download](https://i.paste.pics/fde727c96d0f1278f8ffbde37b0d863a.png "Скачать")<br>
+2) ![zip](https://i.paste.pics/20ad45f5f625fa1e128280251bea14b6.png "ZIP")
 #### Download `mods` and `config`
 
 
