@@ -1,5 +1,4 @@
 ### Обновление 1.2 (unrealesed)
-* Обновление с помощью ``updater.bat`` ***(CURL)***
 * Новые иконки (атлас, таумономикон)
 * Новый загрузочный экран
 * Новый мод [Apple Core](https://minecraft.curseforge.com/projects/applecore)
@@ -7,4 +6,5 @@
 
 ### Отложено
 * Добавить моды `AgriCraft`, `MystCraft`, `Rustic`
+* Обновление с помощью **curl**
 * Лаунчер
